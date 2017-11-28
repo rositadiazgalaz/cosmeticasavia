@@ -1,0 +1,121 @@
+/*=============================
+         GLOBAL
+==============================*/
+
+*{
+
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	text-decoration: none;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+ul, ol{
+	padding: 0px;
+}
+
+a:visited, a:link, a:focus, a:hover, a:active{
+	list-style: none;
+	text-decoration: none;
+
+}
+.barraSuperior{
+	background: #383C25; /* CAMBIAR EL COLOR  DEL NAV*/
+}
+
+.barraSuperior a{
+	color: whitesmoke; /* ====COLOR FUENTE HEADER==*/
+}
+
+.backColor, .backColor a{
+	background: #CCFF00; /*====CAMBIAR COLOR ====*/
+	color: whitesmoke;  /*=====VER COLOR DE FUENTES======*/
+
+}
+/*======  FIN GLOBAL   =======*/
+
+/*=============================
+        REDES SOCIALES
+==============================*/
+.redSocial{
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+}
+/* FACEBOOK*/
+
+.facebookBlanco{
+	color: whitesmoke;
+}
+
+.facebookNegro{
+	color: black;
+}
+
+.facebookColor{
+	color: whitesmoke;
+	background: #46639f;
+}
+
+/* YOUTUBE*/
+.youtubeColor{
+	color: whitesmoke;
+	background: #d6513e;
+}
+
+.youtubeBlanco{
+	color: whitesmoke;
+}
+
+.youtubeNegro{
+	color: black;
+}
+
+/* TWITTER*/
+
+.twitterColor{
+	color: whitesmoke;
+	background: #0ab2e6;
+}
+
+.twitterBlanco{
+	color: whitesmoke;
+}
+
+.twitterNegro{
+	color: black;
+}
+
+/* GOOGLE PLUS*/
+
+.googleColor{
+	color: whitesmoke;
+	background: #d71617;
+}
+
+.googleBlanco{
+	color: whitesmoke;
+}
+
+.googleNegro{
+	color: black;
+}
+
+/* INSTAGRAM*/
+
+.instagramColor{
+	color: whitesmoke;
+	background: linear-gradient(45deg, #fca925, #ee1d5f, #6350a2);
+}
+
+.instagramBlanco{
+	color: whitesmoke;
+}
+
+.instragramNegro{
+	color: black;
+}
+
+/*======FIN DE RED SOCIAL =======*/
